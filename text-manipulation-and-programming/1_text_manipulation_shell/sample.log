@@ -1,0 +1,5 @@
+2025-04-27 12:01:23 INFO Starting service
+2025-04-27 12:01:25 ERROR Failed to connect to DB
+2025-04-27 12:02:00 WARN Low memory
+2025-04-27 12:03:45 ERROR Service crashed unexpectedly
+2025-04-27 12:05:00 INFO Restarting service
